@@ -1,0 +1,5 @@
+puplic class{
+  puplic void main(String[]args){
+  System.out.print("Helo Word");
+   }
+}
