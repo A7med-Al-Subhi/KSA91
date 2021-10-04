@@ -3,3 +3,4 @@ puplic class{
   System.out.print("Helo Word");
    }
 }
+// print Helo Word
